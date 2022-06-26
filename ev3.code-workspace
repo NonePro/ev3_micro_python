@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "datalog"
+		},
+		{
+			"path": "gyro_boy"
+		},
+		{
+			"path": "new_project"
+		},
+		{
+			"path": "buttons_quickstart"
+		},
+		{
+			"path": "robot_educator_basic"
+		}
+	],
+	"settings": {
+		"debug.openDebug": "neverOpen"
+	}
+}
